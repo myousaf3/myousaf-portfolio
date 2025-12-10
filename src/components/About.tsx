@@ -63,7 +63,7 @@ const About = () => {
           {/* Description */}
           <div className="space-y-6">
             <p className="text-lg text-muted-foreground leading-relaxed">
-              As an AI/ML Engineer with <span className="text-foreground font-medium">4+ years of experience</span>, 
+              As an AI/ML Engineer with <span className="text-foreground font-medium">6+ years of experience</span>, 
               I specialize in building intelligent systems that drive real business value. 
               My expertise spans across <span className="text-primary">Generative AI</span>, 
               <span className="text-primary"> Computer Vision</span>, and 
